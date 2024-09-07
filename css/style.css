@@ -16,7 +16,7 @@ li {
 }
 /* start of home */
 .home-section {
-  background-image: url(/images/bg-home.jpg);
+  background-image: url(../images/bg-home.jpg);
   height: 100vh;
   background-size: 100% 100%;
   overflow: auto;
@@ -286,7 +286,7 @@ nav .right-nav a:hover {
   margin-right: 7px;
 }
 .last-details {
-  background-image: url(/images/contact-details-map.png);
+  background-image: url(../images/contact-details-map.png);
 }
 /* end of details */
 /* start of footer */
